@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Patrick Anderson
 
 - 🌱 Estudando JavaScript e React
-- 💬 Iniciante na area
+- 💬 Iniciante na área
 - 📫 Contate-me no email : Patrickags@outlook.com
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
