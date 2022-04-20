@@ -1,4 +1,4 @@
-### Olá! Eu sou o Patrick Anderson
+### Olá! Sou o Patrick
 
 - 🌱 Estudando JavaScript e React
 - 💬 Iniciante na área
