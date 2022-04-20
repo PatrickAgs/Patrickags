@@ -1,4 +1,4 @@
-### Olá! Sou o Patrick
+### Oi, Sou o Patrick
 
 - 🌱 Estudando JavaScript e React
 - 💬 Iniciante na área
