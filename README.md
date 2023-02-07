@@ -1,6 +1,6 @@
 ### Oi, Sou o Patrick
 
-- 🌱 Estudando JavaScript e React
+- 🌱 Estudando Python e SQL
 - 💬 Iniciante na área
 - 📫 Contate-me no email: Patrickags@outlook.com
 - 😄 Pronomes: Ele/Dele
