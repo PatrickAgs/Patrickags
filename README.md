@@ -1,11 +1,10 @@
-<h1 align="center">Olá, eu sou o Patrick 👋</h1>
+<h1 align="center">Olá, sou o Patrick 👋</h1>
 <p align="center"><b>Análise de Dados</b> · Python · SQL · Power BI · Cabo Frio, RJ</p>
 
 ### 📊 Sobre mim
 - Foco em análise de dados com **Python**, **SQL** e **Power BI**
 - Transformando dados em informação para apoiar decisões
 - Projetos de análise chegando aqui em breve
-- Pronomes: ele/dele
 
 ### 🛠️ Ferramentas
 <p>
