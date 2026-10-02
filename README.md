@@ -1,33 +1,28 @@
-### Oi, Sou o Patrick
+<h1 align="center">Olá, eu sou o Patrick 👋</h1>
+<p align="center"><b>Análise de Dados</b> · Python · SQL · Power BI · Cabo Frio, RJ</p>
 
-- 🌱 Estudando Python e SQL
-- 💬 Iniciante na área
-- 📫 Contate-me no email: Patrickags@outlook.com
-- 😄 Pronomes: Ele/Dele
+### 📊 Sobre mim
+- Foco em análise de dados com **Python**, **SQL** e **Power BI**
+- Transformando dados em informação para apoiar decisões
+- Projetos de análise chegando aqui em breve
+- Pronomes: ele/dele
 
+### 🛠️ Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
+### 📈 Estatísticas
 <div align="center">
-  <a href="https://github.com/PatrickAgs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickAgs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickAgs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PatrickAgs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/republicsons" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:patrickags@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patrickags/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
-  
-  
+
+### 📫 Contato
+<a href="https://www.linkedin.com/in/patrickags/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:patrickags@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
